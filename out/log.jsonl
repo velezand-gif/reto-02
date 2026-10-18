@@ -1,0 +1,15 @@
+{"ts":"2026-09-03T10:00:01.120Z","sessionId":"demo-session-local","tool":"contratos_leer_buzon","mensaje_id":null,"ok":true,"resumen":"6 mensajes listados del buzón"}
+{"ts":"2026-09-03T10:00:01.340Z","sessionId":"demo-session-local","tool":"contratos_extraer","mensaje_id":"msg-001","ok":true,"resumen":"Extracción exitosa para contrato CT-2026-001"}
+{"ts":"2026-09-03T10:00:01.510Z","sessionId":"demo-session-local","tool":"contratos_validar","mensaje_id":"msg-001","ok":true,"resumen":"Clasificación: nuevo, requiere_revision: []"}
+{"ts":"2026-09-03T10:00:01.820Z","sessionId":"demo-session-local","tool":"contratos_registrar","mensaje_id":"msg-001","ok":true,"resumen":"Registrado exitosamente CT-2026-001"}
+{"ts":"2026-09-03T10:00:02.100Z","sessionId":"demo-session-local","tool":"contratos_extraer","mensaje_id":"msg-002","ok":true,"resumen":"Extracción exitosa para contrato CT-2026-003"}
+{"ts":"2026-09-03T10:00:02.310Z","sessionId":"demo-session-local","tool":"contratos_validar","mensaje_id":"msg-002","ok":true,"resumen":"Clasificación: nuevo, requiere_revision: []"}
+{"ts":"2026-09-03T10:00:02.550Z","sessionId":"demo-session-local","tool":"contratos_registrar","mensaje_id":"msg-002","ok":true,"resumen":"Registrado exitosamente CT-2026-003"}
+{"ts":"2026-09-03T10:00:02.890Z","sessionId":"demo-session-local","tool":"contratos_extraer","mensaje_id":"msg-003","ok":true,"resumen":"Otrosí detectado para contrato CT-2025-018"}
+{"ts":"2026-09-03T10:00:03.110Z","sessionId":"demo-session-local","tool":"contratos_validar","mensaje_id":"msg-003","ok":true,"resumen":"Clasificación: actualizacion, requiere_revision: []"}
+{"ts":"2026-09-03T10:00:03.400Z","sessionId":"demo-session-local","tool":"contratos_registrar","mensaje_id":"msg-003","ok":true,"resumen":"Actualizado CT-2025-018 en maestro e historial"}
+{"ts":"2026-09-03T10:00:03.700Z","sessionId":"demo-session-local","tool":"contratos_validar","mensaje_id":"msg-004","ok":true,"resumen":"Clasificación: duplicado, sin cambios requeridos"}
+{"ts":"2026-09-03T10:00:04.010Z","sessionId":"demo-session-local","tool":"contratos_validar","mensaje_id":"msg-005","ok":true,"resumen":"Clasificación: rechazado, motivo: Sin adjunto de contrato"}
+{"ts":"2026-09-03T10:00:04.300Z","sessionId":"demo-session-local","tool":"contratos_validar","mensaje_id":"msg-006","ok":true,"resumen":"Clasificación: nuevo, requiere_revision: ['valor', 'fecha_fin']"}
+{"ts":"2026-09-03T10:00:05.100Z","sessionId":"demo-session-local","tool":"contratos_registrar","mensaje_id":"msg-006","ok":true,"resumen":"Registrado tras confirmación de usuario (confirmado: true)"}
+{"ts":"2026-09-03T10:00:05.800Z","sessionId":"demo-session-local","tool":"contratos_alertas","mensaje_id":null,"ok":true,"resumen":"Reporte de alertas generado en out/alertas.md"}

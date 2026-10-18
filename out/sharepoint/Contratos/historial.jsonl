@@ -1,0 +1,4 @@
+{"ts":"2026-09-03T10:15:30.000Z","id_contrato":"CT-2026-001","accion":"nuevo","mensaje_id":"msg-001"}
+{"ts":"2026-09-03T10:15:32.000Z","id_contrato":"CT-2026-003","accion":"nuevo","mensaje_id":"msg-002"}
+{"ts":"2026-09-03T10:15:35.000Z","id_contrato":"CT-2025-018","accion":"actualizacion","mensaje_id":"msg-003","cambios":{"fecha_fin":{"anterior":"2026-06-30","nueva":"2026-12-31"}}}
+{"ts":"2026-09-03T10:16:05.000Z","id_contrato":"CT-2026-015","accion":"nuevo","mensaje_id":"msg-006"}
